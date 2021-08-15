@@ -6,8 +6,8 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-aakansha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakansha-chouhan-091631215//)](https://www.linkedin.com/in/aakansha-chouhan-091631215//)
-[![Website Badge](https://img.shields.io/badge/WebSite-Renuka-yellow)](https://www.Aakansha.me)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Renuka-blue)](https://stackoverflow.com/users/16351154/aakansha-chouhan?tab=profile)
+[![Website Badge](https://img.shields.io/badge/WebSite-Aakansha-yellow)](https://www.Aakansha.me)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakansha-blue)](https://stackoverflow.com/users/16351154/aakansha-chouhan?tab=profile)
 
 Strong in design and integration with intuitive problem-solving skills. Proficient in C, JAVA, HTML, CSS, SQL and JAVASCRIPT. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start the career as an entry-level software engineer with a reputed firm driven by technology.
 💬 Ask me about ...- 🌱 I’m currently learning ...
