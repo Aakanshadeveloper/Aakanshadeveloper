@@ -1,6 +1,6 @@
 
 <h1 align = "center">Hello, I'm Aakansha chouhan 👋</h1>
-<h3 align = "center">Soft-ware developer</h3>
+<h3 align = "center">Software developer</h3>
 
 
 
