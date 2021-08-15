@@ -4,6 +4,8 @@
 
 
 ![alt text](https://aakanshadeveloper.github.io/myprofile//) 
+![alt text](https://github.com/ayushi7rawat/ayushi7rawat/blob/master/cover2.png) 
+
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-aakansha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakansha-chouhan-091631215//)](https://www.linkedin.com/in/aakansha-chouhan-091631215//)
