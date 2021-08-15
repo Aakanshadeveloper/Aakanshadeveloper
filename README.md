@@ -3,7 +3,7 @@
 <h3 align = "center">Software developer</h3>
 
 
-![alt text](https://aakanshadeveloper.github.io/myprofile//blob/master/cover2.png) 
+![alt text](https://aakanshadeveloper.github.io/myprofile/) 
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-aakansha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakansha-chouhan-091631215//)](https://www.linkedin.com/in/aakansha-chouhan-091631215//)
