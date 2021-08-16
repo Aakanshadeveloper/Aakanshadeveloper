@@ -3,7 +3,7 @@
 <h3 align = "center">Software developer</h3>
 
 
-![image info](https://raw.githubusercontent.com/Aakanshadeveloper/myprofile/master/riya.jpeg) 
+![image info](https://github.com/Aakanshadeveloper/profilecover/blob/master/cover%20(2).png) 
 
 
 
