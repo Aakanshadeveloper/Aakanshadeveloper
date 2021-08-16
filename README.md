@@ -4,7 +4,6 @@
 
 
 ![alt text](https://github.com/aakanshadeveloper/aakanshadeveloper/blob/master/conver2.png) 
-![alt text](https://github.com/ayushi7rawat/ayushi7rawat/blob/master/cover2.png) 
 
 
 
