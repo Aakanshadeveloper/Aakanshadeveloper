@@ -4,7 +4,7 @@
 
 <!-- ![image info](https://github.com/Aakanshadeveloper/profilecover/blob/master/cover%20(2).png)  -->
 <p align="center">
-  <img width="600" height="200" src="https://github.com/Aakanshadeveloper/profilecover/blob/master/cover%20(2).png">
+  <img src="https://github.com/Aakanshadeveloper/profilecover/blob/master/cover%20(2).png">
 </p>
 
 
