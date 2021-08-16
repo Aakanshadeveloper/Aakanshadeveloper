@@ -1,5 +1,5 @@
 <p align="center">
- [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Aakansha chouhan](https://aakansha.com/)
+ Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Aakansha chouhan
    </p>                                                                                                     
 
 <h3 align = "center">Software developer</h3>
