@@ -3,7 +3,7 @@
 <h3 align = "center">Software developer</h3>
 
 
-![alt text](https://github.com/aakanshadeveloper/aakanshadeveloper/blob/master/conver2.png) 
+![image info](https://github.com/aakanshadeveloper/aakanshadeveloper/blob/master/conver2.png) 
 
 
 
