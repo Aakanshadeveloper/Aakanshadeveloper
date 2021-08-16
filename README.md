@@ -2,9 +2,9 @@
 <h1 align = "center">Hello, I'm Aakansha chouhan 👋</h1>
 <h3 align = "center">Software developer</h3>
 
-<h3 align="center">
+<align="center">
 ![image info](https://github.com/Aakanshadeveloper/profilecover/blob/master/cover%20(2).png) 
-</h3>
+</>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-aakansha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakansha-chouhan-091631215//)](https://www.linkedin.com/in/aakansha-chouhan-091631215//)
