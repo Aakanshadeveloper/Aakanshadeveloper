@@ -2,9 +2,11 @@
 <h1 align = "center">Hello, I'm Aakansha chouhan 👋</h1>
 <h3 align = "center">Software developer</h3>
 
-<"center">
-![image info](https://github.com/Aakanshadeveloper/profilecover/blob/master/cover%20(2).png) 
-</center>
+<!-- ![image info](https://github.com/Aakanshadeveloper/profilecover/blob/master/cover%20(2).png)  -->
+<p align="center">
+  <img width="600" height="200" src="https://github.com/Aakanshadeveloper/profilecover/blob/master/cover%20(2).png">
+</p>
+
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-aakansha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakansha-chouhan-091631215//)](https://www.linkedin.com/in/aakansha-chouhan-091631215//)
