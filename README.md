@@ -2,7 +2,6 @@
  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Aakansha chouhan
    </h1>                                                                                                     
 
-<h3 align = "center">Software developer</h3>
 
 <!-- ![image info](https://github.com/Aakanshadeveloper/profilecover/blob/master/cover%20(2).png)  -->
 <p align="center">
