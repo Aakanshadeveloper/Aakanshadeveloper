@@ -14,8 +14,8 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Aakansha-yellow)](https://www.Aakansha.me)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Aakansha-blue)](https://stackoverflow.com/users/16351154/aakansha-chouhan?tab=profile)
 
-Strong in design and integration with intuitive problem-solving skills. Proficient in C, JAVA, HTML, CSS, SQL and JAVASCRIPT. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start the career as an entry-level software engineer with a reputed firm driven by technology.
-💬 Ask me about ...- 🌱 I’m currently learning ...
+Strong in design and integration with intuitive problem-solving skills. Proficient in C, C++, HTML, CSS, and JavaScript, along with front-end frameworks. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions.
+💬 Ask me about ...- 🌱 I’m Frontend Developer...
 📫 You can reach me:  <a href="mailto:chouhan.aakansha1999@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=flat-square&logo=gmail&logoColor=white"/></a>
 
 Languages and Tools:
